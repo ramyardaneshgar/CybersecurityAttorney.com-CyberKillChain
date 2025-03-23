@@ -7,7 +7,7 @@ Disclaimer: This article is for educational purposes only and does not constitut
 
 ## Introduction
 
-In today’s digital landscape, cybersecurity is not solely a technical issue—it is a legal and regulatory imperative. As an incident response professional and legal advisor, I have seen how attackers structure their operations, often following models like the Cyber Kill Chain. This article dissects each phase of the Cyber Kill Chain, explains its technical nuances, and details the legal responsibilities and compliance measures organizations should adopt. The goal is to provide a comprehensive framework that bridges technical defenses with legal risk management.
+In today’s digital landscape, cybersecurity is not solely a technical issue—it is a legal and regulatory imperative. As security researcher, I have seen how attackers structure their operations, often following models like the Cyber Kill Chain. This article dissects each phase of the Cyber Kill Chain, explains its technical nuances, and details the legal responsibilities and compliance measures organizations should adopt. The goal is to provide a comprehensive framework that bridges technical defenses with legal risk management.
 
 ## The Cyber Kill Chain Framework: An Overview
 
