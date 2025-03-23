@@ -3,6 +3,8 @@ A Detailed Breakdown of the Cyber Kill Chain: Legal Implications and Best Practi
 
 By Ramyar Daneshgar
 
+Disclaimer: This article is for educational purposes only and does not constitute legal advice. If you require legal guidance specific to your organization, consult with a licensed attorney experienced in cybersecurity and data protection law.
+
 ## Introduction
 
 In today’s digital landscape, cybersecurity is not solely a technical issue—it is a legal and regulatory imperative. As an incident response professional and legal advisor, I have seen how attackers structure their operations, often following models like the Cyber Kill Chain. This article dissects each phase of the Cyber Kill Chain, explains its technical nuances, and details the legal responsibilities and compliance measures organizations should adopt. The goal is to provide a comprehensive framework that bridges technical defenses with legal risk management.
@@ -178,4 +180,9 @@ By breaking down the Cyber Kill Chain and understanding each phase’s technical
 - **FTC Cybersecurity Guidelines:** [FTC Cyber Guidelines](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/data-security)
 - **IAPP (International Association of Privacy Professionals):** [IAPP](https://iapp.org/)
 - **Splunk Documentation:** [Splunk Search Tutorial](https://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/WelcometotheSearchTutorial)
+
+Written by: Ramyar DaneshgarCybersecurity Engineer & Legal Policy Researcher at CybersecurityAttorney.com
+
+This article is provided for informational purposes only and does not constitute legal advice. For legal counsel, please consult a licensed cybersecurity attorney.
+
 
