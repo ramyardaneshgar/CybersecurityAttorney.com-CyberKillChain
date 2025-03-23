@@ -181,7 +181,7 @@ By breaking down the Cyber Kill Chain and understanding each phase’s technical
 - **IAPP (International Association of Privacy Professionals):** [IAPP](https://iapp.org/)
 - **Splunk Documentation:** [Splunk Search Tutorial](https://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/WelcometotheSearchTutorial)
 
-Written by: Ramyar DaneshgarCybersecurity Engineer & Legal Policy Researcher at CybersecurityAttorney.com
+Written by: Ramyar Daneshgar, Security Engineer & Legal Policy Researcher at CybersecurityAttorney.com
 
 This article is provided for informational purposes only and does not constitute legal advice. For legal counsel, please consult a licensed cybersecurity attorney.
 
